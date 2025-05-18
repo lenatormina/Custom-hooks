@@ -1,14 +1,12 @@
-
-import Demo from './components/demo'
-import './App.css'
+import Demo from './components/useFetch/demo';
+import './App.css';
 
 function App() {
-
   return (
     <>
-      <Demo/>
+      <Demo />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
